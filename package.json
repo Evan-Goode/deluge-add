@@ -17,7 +17,6 @@
   "author": "Ryan Ramage",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "request": "~2.33.0",
-    "zlib": "~1.0.5"
+    "request": "~2.33.0"
   }
 }
