@@ -1,4 +1,4 @@
-deleuge-add
+deluge-add
 ============
 
 A simple way to add torrents to the deluge web client.
