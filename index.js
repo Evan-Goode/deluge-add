@@ -1,5 +1,4 @@
 var request = require('request'),
-    zlib = require('zlib');
 
 var host_body = {method:"web.get_hosts",params:[],            "id":1};
 
