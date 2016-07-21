@@ -1,4 +1,4 @@
-var request = require('request'),
+var request = require('request');
 
 var host_body = {method:"web.get_hosts",params:[],            "id":1};
 
